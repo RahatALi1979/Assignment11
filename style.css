@@ -1,0 +1,36 @@
+.col {
+    border-left: 2px solid black;
+    height: 130px;
+    position: relative;
+    left: %;
+    margin-left: -5px;
+    top: 0;
+    float: left;
+    width: 33.33%;
+    padding: 1px;
+    }
+
+    .col2 {
+    border-left: 2px solid black;
+    height: 280px;
+    position: relative;
+    left: %;
+    margin-left: -5px;
+    top: 0;
+    float: left;
+    width: 33.33%;
+    padding: 1px;
+    }
+
+    div>p {
+        padding: 2px;
+    }
+    .p3 {
+        text-align: justify;
+        padding: 6px;
+        margin: 0%;
+    }
+    figure {
+        float: left;
+        text-align: center;
+    }
